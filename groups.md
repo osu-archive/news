@@ -2,7 +2,7 @@
 Groups are here! You can finally look through versions using groups, and this also paves the way for support for other osu! related things, such as skins, osu!droid, and more!
 
 ## Open a group
-You can simply open a group by clicking it! How easy?
+You can simply open a group by clicking it! How easy?<br>
 ![](https://upload.hubza.co.uk/i/firefox_v0KcEJH9TH_2021-January-07.png)
 
 ## Search improvements
